@@ -1,8 +1,8 @@
 # Organizational-News-Portal
-
+A java spark web application that uses REST API REST API for querying and retrieving scoped news and information.
 
 ## Description
-
+The organizational news/articles/post are available to all employees without navigating into any department, and others that are housed/classified within departments. This allows for proper news management(general or departmental) between the users and the department for vision and mission realization. 
 
 ## Technologies Used
 Java v11
